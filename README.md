@@ -1,2 +1,2 @@
 # Python
-Demo repository for Python practice programs
+Basic Python practice programs
